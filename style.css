@@ -1,5 +1,9 @@
+html, body {
+    font-family: Arial, sans-serif
+}
+
 .loading-screen-spinner {
-    margin-top: 90px
+    margin-top: 16px
 }
 
 .spinner {
